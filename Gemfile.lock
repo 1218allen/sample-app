@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: http://ruby.taobao.org/
   specs:
     actionmailer (3.2.8)
       actionpack (= 3.2.8)
@@ -137,7 +137,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  capybara (= 1.1.2)
+  capybara
   coffee-rails (~> 3.2.1)
   jquery-rails
   rails (= 3.2.8)

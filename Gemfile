@@ -1,4 +1,5 @@
-source 'https://rubygems.org'
+#source 'https://rubygems.org'
+source 'http://ruby.taobao.org/'
 
 gem 'rails', '3.2.8'
 
@@ -43,5 +44,5 @@ gem 'jquery-rails'
 # gem 'debugger'
 
 group :test do
-	gem 'capybara', '1.1.2'
+	gem 'capybara'
 end
